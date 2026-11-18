@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-gymnasium
-shimmy
-torch==2.3.0+cpu --index-url https://download.pytorch.org/whl/cpu
-stable-baselines3
+pandas>=2.0.0
+numpy>=1.24.0
+gymnasium>=0.29.0
+stable-baselines3>=2.2.0
+torch>=2.0.0
+matplotlib>=3.7.0
+shimmy>=1.3.0

@@ -2,6 +2,6 @@ streamlit
 pandas
 numpy
 gymnasium
-stable-baselines3
-torch
 shimmy
+torch==2.3.0+cpu --index-url https://download.pytorch.org/whl/cpu
+stable-baselines3
